@@ -9,11 +9,13 @@ date format: (mm/dd/yyy)
 - Volume for Sphere, Prism, Cube and Cuboid made
 
 # 0.0.2 (02/27/2023)
-- Main CHanges:
-    - fshf
--Additional Updates
-- Addded documentation of package
-- Added Log
-- Added Home Page
-- addded LICENSE
-- added 
+- Main Changes:
+    - added code to calculate variables base on Area
+    - added code to calculate variables base on Volume
+    - the above are for all existing shapes and object
+- Additional Updates:
+    - Addded documentation of package
+    - Added Log
+    - Added Home Page
+    - addded LICENSE 
+    - made everything lowercase
