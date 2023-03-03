@@ -14,8 +14,13 @@ date format: (mm/dd/yyy)
     - added code to calculate variables base on Volume
     - the above are for all existing shapes and object
 - Additional Updates:
-    - Addded documentation of package
     - Added Log
     - Added Home Page
     - addded LICENSE 
     - made everything lowercase
+
+# 0.0.3(03/03/2023)
+- bugs fixed
+    - date issue in log(0.0.2)(not edited)
+    - fixed variable name
+    - fixed lower case(didn't work in 0.0.2)
